@@ -1,0 +1,21 @@
+Date,City,Temp,Event
+2025-05-01,New York,18,Sunny
+2025-05-01,Los Angeles,22,Cloudy
+2025-05-01,Chicago,15,Rainy
+2025-05-01,Houston,28,Sunny
+2025-05-01,Phoenix,33,Hot
+2025-05-02,Seattle,16,Cloudy
+2025-05-02,Miami,29,Sunny
+2025-05-02,Denver,14,Snow
+2025-05-02,Boston,17,Windy
+2025-05-02,San Francisco,19,Foggy
+2025-05-03,Las Vegas,32,Hot
+2025-05-03,Atlanta,25,Rainy
+2025-05-03,Dallas,27,Sunny
+2025-05-03,Philadelphia,20,Cloudy
+2025-05-03,Orlando,30,Sunny
+2025-05-04,Detroit,13,Rainy
+2025-05-04,San Diego,21,Sunny
+2025-05-04,Minneapolis,12,Snow
+2025-05-04,Portland,15,Cloudy
+2025-05-04,Austin,26,Humid
